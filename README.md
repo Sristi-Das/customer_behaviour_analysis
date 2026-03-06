@@ -18,7 +18,7 @@ Frequency of Purchases, Review Rating, Shipping Type)
 
 4. Tools and Technologies
 Python: Data loading, cleaning, and exploratory data analysis (EDA)
-Pandas, NumPy, Matplotlib, Seaborn: Data manipulation and visualization
+Pandas: Data manipulation and visualization
 PostgreSQL: SQL querying and database management
 Power BI: Dashboard development and visualization
 Gamma AI: Automated presentation design and report creation
